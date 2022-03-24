@@ -1,0 +1,20 @@
+        .form-control {
+            padding: 0.375rem 1.75rem;
+        }
+        
+        .icon1 {
+            position: absolute !important;
+            line-height: calc(2.19rem + 2px) !important;
+            left: 25px !important;
+        }
+        
+        .icon {
+            position: absolute !important;
+            line-height: calc(2.19rem + 2px) !important;
+            left: 32% !important;
+        }
+        
+        label.error {
+            color: red!important;
+            font-size: 13px;
+        }
